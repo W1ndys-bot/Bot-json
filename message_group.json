@@ -1,29 +1,60 @@
-{
-    "self_id": 3649056059,
-    "user_id": 2769731875,
-    "time": 1722070901,
-    "message_id": -2147469335,
-    "message_seq": -2147469335,
-    "real_id": -2147469335,
-    "message_type": "group",
-    "sender": {
+[
+    {
+        "self_id": 3649056059,
         "user_id": 2769731875,
-        "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
-        "card": "",
-        "role": "owner"
+        "time": 1722070901,
+        "message_id": -2147469335,
+        "message_seq": -2147469335,
+        "real_id": -2147469335,
+        "message_type": "group",
+        "sender": {
+            "user_id": 2769731875,
+            "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+            "card": "",
+            "role": "owner"
+        },
+        "raw_message": "参数为什么没传过来",
+        "font": 14,
+        "sub_type": "normal",
+        "message": [
+            {
+                "data": {
+                    "text": "参数为什么没传过来"
+                },
+                "type": "text"
+            }
+        ],
+        "message_format": "array",
+        "post_type": "message",
+        "group_id": 728077087
     },
-    "raw_message": "参数为什么没传过来",
-    "font": 14,
-    "sub_type": "normal",
-    "message": [
-        {
-            "data": {
-                "text": "参数为什么没传过来"
-            },
-            "type": "text"
-        }
-    ],
-    "message_format": "array",
-    "post_type": "message",
-    "group_id": 728077087
-}
+    {
+        "self_id": 3249474653,
+        "user_id": 2769731875,
+        "time": 1722787431,
+        "message_id": -923896721,
+        "message_seq": -923896721,
+        "real_id": -923896721,
+        "message_type": "group",
+        "sender": {
+            "user_id": 2769731875,
+            "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+            "card": "",
+            "role": "owner"
+        },
+        "raw_message": "\\u",
+        "font": 14,
+        "sub_type": "normal",
+        "message": [
+            {
+                "data": {
+                    "text": "\\u"
+                },
+                "type": "text"
+            }
+        ],
+        "message_format": "array",
+        "post_type": "message",
+        "group_id": 914802812
+    }
+]
