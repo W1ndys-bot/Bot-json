@@ -5,15 +5,15 @@
         "result": 0,
         "errMsg": "success",
         "detail": {
-            "uid": "u_***********_3249474653",
-            "uin": "3249474653",
+            "uid": "u_************_482548878",
+            "uin": "482548878",
             "simpleInfo": {
-                "uid": "u_***********_3249474653",
-                "uin": "3249474653",
+                "uid": "u_************_482548878",
+                "uin": "482548878",
                 "coreInfo": {
-                    "uid": "u_***********_3249474653",
-                    "uin": "3249474653",
-                    "nick": "b0t小卷",
+                    "uid": "u_************_482548878",
+                    "uin": "482548878",
+                    "nick": "*",
                     "remark": ""
                 },
                 "baseInfo": {
@@ -28,11 +28,11 @@
                     "phoneNum": "-",
                     "categoryId": 0,
                     "richTime": 0,
-                    "richBuffer": "0x"
+                    "richBuffer": {}
                 },
                 "status": {
-                    "uid": "u_***********_3249474653",
-                    "uin": "3249474653",
+                    "uid": "u_************_482548878",
+                    "uin": "482548878",
                     "status": 20,
                     "extStatus": 0,
                     "batteryStatus": 0,
@@ -47,10 +47,10 @@
                     "showName": "",
                     "termDesc": "",
                     "musicInfo": {
-                        "buf": "0x"
+                        "buf": {}
                     },
                     "extOnlineBusinessInfo": {
-                        "buf": "0x",
+                        "buf": {},
                         "customStatus": null,
                         "videoBizInfo": {
                             "cid": "",
@@ -62,7 +62,7 @@
                         }
                     },
                     "extBuffer": {
-                        "buf": "0x"
+                        "buf": {}
                     }
                 },
                 "vasInfo": {
@@ -80,7 +80,7 @@
                     "pendantDiyId": 0,
                     "faceId": 0,
                     "vipFont": 0,
-                    "vipFontType": 1,
+                    "vipFontType": 0,
                     "magicFont": 0,
                     "fontEffect": 0,
                     "newLoverDiamondFlag": 0,
@@ -95,7 +95,7 @@
                     "gameCardId": "0",
                     "vipNameColorId": "0",
                     "privilegeIcon": {
-                        "jumpUrl": "https://club.vip.qq.com/guestprivilege?_wv=16777218&_wwv=68&_nav_bgclr=ffffff&_nav_titleclr=ffffff&_nav_txtclr=ffffff&_nav_alpha=0&_wvx=10&_proxy=1&_proxyByURL=1&friend=3249474653",
+                        "jumpUrl": "https://club.vip.qq.com/guestprivilege?_wv=16777218&_wwv=68&_nav_bgclr=ffffff&_nav_titleclr=ffffff&_nav_txtclr=ffffff&_nav_alpha=0&_wvx=10&_proxy=1&_proxyByURL=1&friend=482548878",
                         "openIconList": [],
                         "closeIconList": []
                     }
@@ -132,7 +132,7 @@
                 "city": "",
                 "postCode": "",
                 "address": "",
-                "regTime": 1548925793,
+                "regTime": 1565743812,
                 "interest": "",
                 "labels": [],
                 "qqLevel": {
@@ -144,9 +144,9 @@
             },
             "photoWall": null
         },
-        "uid": "u_BAmxYnfhzXmETdMkVhJKNw",
-        "uin": "3249474653",
-        "nick": "b0t小卷",
+        "uid": "u_0EFK6dTZCEaW0FutUsnzug",
+        "uin": "482548878",
+        "nick": "*",
         "remark": "",
         "status": 20,
         "extStatus": 0,
@@ -162,10 +162,10 @@
         "showName": "",
         "termDesc": "",
         "musicInfo": {
-            "buf": "0x"
+            "buf": {}
         },
         "extOnlineBusinessInfo": {
-            "buf": "0x",
+            "buf": {},
             "customStatus": null,
             "videoBizInfo": {
                 "cid": "",
@@ -177,61 +177,7 @@
             }
         },
         "extBuffer": {
-            "buf": "0x"
-        },
-        "vipFlag": false,
-        "yearVipFlag": false,
-        "svipFlag": false,
-        "vipLevel": 0,
-        "bigClub": false,
-        "bigClubLevel": 0,
-        "nameplateVipType": 0,
-        "grayNameplateFlag": 0,
-        "superVipTemplateId": 0,
-        "diyFontId": 0,
-        "pendantId": "",
-        "pendantDiyId": 0,
-        "faceId": 0,
-        "vipFont": 0,
-        "vipFontType": 1,
-        "magicFont": 0,
-        "fontEffect": 0,
-        "newLoverDiamondFlag": 0,
-        "extendNameplateId": 0,
-        "diyNameplateIDs": [],
-        "vipStartFlag": 0,
-        "vipDataFlag": 0,
-        "gameNameplateId": "0",
-        "gameLastLoginTime": "0",
-        "gameRank": 0,
-        "gameIconShowFlag": false,
-        "gameCardId": "0",
-        "vipNameColorId": "0",
-        "privilegeIcon": {
-            "jumpUrl": "https://club.vip.qq.com/guestprivilege?_wv=16777218&_wwv=68&_nav_bgclr=ffffff&_nav_titleclr=ffffff&_nav_txtclr=ffffff&_nav_alpha=0&_wvx=10&_proxy=1&_proxyByURL=1&friend=3249474653",
-            "openIconList": [],
-            "closeIconList": []
-        },
-        "constellation": 0,
-        "shengXiao": 12,
-        "kBloodType": 0,
-        "homeTown": "0-0-0",
-        "makeFriendCareer": 0,
-        "pos": "",
-        "college": "",
-        "country": "",
-        "province": "",
-        "city": "",
-        "postCode": "",
-        "address": "",
-        "regTime": 1548925793,
-        "interest": "",
-        "labels": [],
-        "qqLevel": {
-            "crownNum": 0,
-            "sunNum": 0,
-            "moonNum": 0,
-            "starNum": 0
+            "buf": {}
         },
         "qid": "",
         "longNick": "",
@@ -244,12 +190,14 @@
         "phoneNum": "-",
         "categoryId": 0,
         "richTime": 0,
-        "richBuffer": "0x",
-        "user_id": 3249474653,
-        "nickname": "b0t小卷",
+        "richBuffer": {},
+        "pendantId": "",
+        "user_id": 482548878,
+        "nickname": "*",
         "login_days": 0,
         "level": 0
     },
     "message": "",
-    "wording": ""
+    "wording": "",
+    "echo": "get_stranger_info"
 }
