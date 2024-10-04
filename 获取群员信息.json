@@ -3,24 +3,25 @@
     "retcode": 0,
     "data": {
         "group_id": 742811316,
-        "user_id": 2769731875,
-        "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+        "user_id": 482548878,
+        "nickname": "*",
         "card": "",
         "sex": "unknown",
         "age": 0,
         "area": "",
         "level": "0",
         "qq_level": 0,
-        "join_time": 1723013423,
-        "last_sent_time": 1724483361,
+        "join_time": 1728036583,
+        "last_sent_time": 1728036583,
         "title_expire_time": 0,
         "unfriendly": false,
         "card_changeable": true,
         "is_robot": false,
         "shut_up_timestamp": 0,
-        "role": "owner",
+        "role": "member",
         "title": ""
     },
     "message": "",
-    "wording": ""
+    "wording": "",
+    "echo": "get_group_member_info"
 }
