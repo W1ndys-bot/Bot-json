@@ -1,96 +1,53 @@
-[
-    {
-        "self_id": 3649056059,
+{
+    "self_id": 3249474653,
+    "user_id": 2769731875,
+    "time": 1730806535,
+    "message_id": 1600448601,
+    "message_seq": 1600448601,
+    "real_id": 1600448601,
+    "message_type": "group",
+    "sender": {
         "user_id": 2769731875,
-        "time": 1722070901,
-        "message_id": -2147469335,
-        "message_seq": -2147469335,
-        "real_id": -2147469335,
-        "message_type": "group",
-        "sender": {
-            "user_id": 2769731875,
-            "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
-            "card": "",
-            "role": "owner"
-        },
-        "raw_message": "参数为什么没传过来",
-        "font": 14,
-        "sub_type": "normal",
-        "message": [
-            {
-                "data": {
-                    "text": "参数为什么没传过来"
-                },
-                "type": "text"
-            }
-        ],
-        "message_format": "array",
-        "post_type": "message",
-        "group_id": 728077087
+        "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+        "card": "你已经成为群主了，快来和大家打招呼吧",
+        "role": "owner"
     },
-    {
-        "self_id": 3249474653,
-        "user_id": 2769731875,
-        "time": 1722787431,
-        "message_id": -923896721,
-        "message_seq": -923896721,
-        "real_id": -923896721,
-        "message_type": "group",
-        "sender": {
-            "user_id": 2769731875,
-            "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
-            "card": "",
-            "role": "owner"
-        },
-        "raw_message": "\\u",
-        "font": 14,
-        "sub_type": "normal",
-        "message": [
-            {
-                "data": {
-                    "text": "\\u"
-                },
-                "type": "text"
+    "raw_message": "[CQ:image,file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732383037373038377c373433333735373436343430373232373336387c373433333735373436343430373232373336347c4568536652544b62786e70594532474a704863716334366d7364766a4e78695833796f675f776f6f3671713835597a4669514d794248427962325251674c326a41566f51312d776955796c4c774d6538346f7658706e37554b41.3C842840E3D44A53C8AAA1DDF2A1EFA2.jpg,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732383037373038377c373433333735373436343430373232373336387c373433333735373436343430373232373336347c4568536652544b62786e70594532474a704863716334366d7364766a4e78695833796f675f776f6f3671713835597a4669514d794248427962325251674c326a41566f51312d776955796c4c774d6538346f7658706e37554b41.3C842840E3D44A53C8AAA1DDF2A1EFA2.jpg,url=https: //multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSfRTKbxnpYE2GJpHcqc46msdvjNxiX3yog_woo6qq85YzFiQMyBHByb2RQgL2jAVoQ1-wiUylLwMe84ovXpn7UKA&amp;spec=0&amp;rkey=CAMSKMa3OFokB_TlAn1p3mvU5wumOQU0O6qAEKgVuQ8nH3AGFjdsHHKKXlM,file_size=700311,file_unique=3c842840e3d44a53c8aaa1ddf2a1efa2]文本测试[CQ:at,qq=2769731875] 文本测试2",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "type": "image",
+            "data": {
+                "summary": "",
+                "file": "000001464e61704361744f6e65426f747c4d736746696c657c327c3732383037373038377c373433333735373436343430373232373336387c373433333735373436343430373232373336347c4568536652544b62786e70594532474a704863716334366d7364766a4e78695833796f675f776f6f3671713835597a4669514d794248427962325251674c326a41566f51312d776955796c4c774d6538346f7658706e37554b41.3C842840E3D44A53C8AAA1DDF2A1EFA2.jpg",
+                "sub_type": 0,
+                "file_id": "000001464e61704361744f6e65426f747c4d736746696c657c327c3732383037373038377c373433333735373436343430373232373336387c373433333735373436343430373232373336347c4568536652544b62786e70594532474a704863716334366d7364766a4e78695833796f675f776f6f3671713835597a4669514d794248427962325251674c326a41566f51312d776955796c4c774d6538346f7658706e37554b41.3C842840E3D44A53C8AAA1DDF2A1EFA2.jpg",
+                "url": "https: //multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSfRTKbxnpYE2GJpHcqc46msdvjNxiX3yog_woo6qq85YzFiQMyBHByb2RQgL2jAVoQ1-wiUylLwMe84ovXpn7UKA&spec=0&rkey=CAMSKMa3OFokB_TlAn1p3mvU5wumOQU0O6qAEKgVuQ8nH3AGFjdsHHKKXlM",
+                "file_size": "700311",
+                "file_unique": "3c842840e3d44a53c8aaa1ddf2a1efa2"
             }
-        ],
-        "message_format": "array",
-        "post_type": "message",
-        "group_id": 914802812
-    },
-    {
-        "self_id": 3249474653,
-        "user_id": 2769731875,
-        "time": 1723194857,
-        "message_id": 1188001943,
-        "message_seq": 1188001943,
-        "real_id": 1188001943,
-        "message_type": "group",
-        "sender": {
-            "user_id": 2769731875,
-            "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
-            "card": "",
-            "role": "owner"
         },
-        "raw_message": "blacklist add [CQ:at,qq=482548878,name=*]",
-        "font": 14,
-        "sub_type": "normal",
-        "message": [
-            {
-                "data": {
-                    "text": "blacklist add "
-                },
-                "type": "text"
-            },
-            {
-                "type": "at",
-                "data": {
-                    "qq": "482548878",
-                    "name": "*"
-                }
+        {
+            "type": "text",
+            "data": {
+                "text": "文本测试"
             }
-        ],
-        "message_format": "array",
-        "post_type": "message",
-        "group_id": 742811316
-    }
-]
+        },
+        {
+            "type": "at",
+            "data": {
+                "qq": "2769731875"
+            }
+        },
+        {
+            "type": "text",
+            "data": {
+                "text": " 文本测试2"
+            }
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 728077087
+}
